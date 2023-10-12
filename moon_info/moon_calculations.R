@@ -3,4 +3,4 @@
 # Let's start calculations
 
 
-# this is a clauclation
+# this is a calculation
