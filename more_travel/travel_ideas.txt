@@ -2,9 +2,16 @@ Other planet travel ideas
 Which planet should we explore, give one pro and one con of the planet
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Saturn
 Pro: rings
 Con: kinda far
-=======
+
 We should explore Mars because it might have water. A con is that that there may be some martians there.
->>>>>>> 01b9a5592748fd0feec0eec07d26196ab516c10b
+
+
+Let's see what suggestions everyone has!
+
+We should explore Mars because it might have water. A con is that that there may be some martians there.
+
+
