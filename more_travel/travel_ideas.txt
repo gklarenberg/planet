@@ -2,4 +2,4 @@ Other planet travel ideas
 Which planet should we explore, give one pro and one con of the planet
 
 #Jupiter- pros: big storm
-          cons: big storm
+          cons: big storm  #
